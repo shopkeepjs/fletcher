@@ -1,8 +1,8 @@
 {
-	"name": "vite-plugin-zod-env-validate",
+	"name": "@shopkeep/fletcher",
 	"private": false,
 	"version": "0.1.0",
-	"description": "A Vite plugin to validate environment variables using Zod before build.",
+	"description": "Helper functions and typescript types to import into your project.",
 	"type": "module",
 	"main": "build/index.js",
 	"types": "build/index.d.ts",
