@@ -1,5 +1,5 @@
 {
-	"name": "@shopkeep/fletcher",
+	"name": "@shopkeepjs/fletcher",
 	"private": false,
 	"version": "0.1.0",
 	"description": "Helper functions and typescript types to import into your project.",
