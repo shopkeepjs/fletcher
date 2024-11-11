@@ -1,6 +1,6 @@
 {
   "name": "@shopkeep/fletcher",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "exports": "./main.ts",
   "tasks": {
     "dev": "deno run --watch main.ts",

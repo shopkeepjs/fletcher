@@ -1,4 +1,8 @@
-export { convertKeysToCamelCase } from "./src/strings/string.ts";
+export {
+  camelToKebabCase,
+  convertKeysToCamelCase,
+} from "./src/strings/string.ts";
+
 export type {
   CamelCaseString,
   ObjectWithCamelCaseKeys,
